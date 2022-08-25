@@ -1,5 +1,5 @@
 # docker_compose
-Arquivo docker-compose para automação da instalação do Postgresql no docker
+Arquivo docker-compose para automatização da instalação do Postgresql no docker
 
 
 Iniciando o docker-compose o parametro -d, para rodar em segundo plano
