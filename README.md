@@ -6,6 +6,10 @@ Arquivo docker-compose para automatização da instalação do Postgresql no doc
 - `Funcionalidade 1`: atomatiza o processo de instalação do gerenciador do PostgreSQL no docker.
 - `Funcionalidade 2`: cria um volume para persistência dos dados.
 
+## Aplicação
+![Docker Compose](./img/docker-compose.JPG)
+
+## Execução
 Iniciando o docker-compose o parametro -d, para rodar em segundo plano
 ```bash
 docker-compose up -d
@@ -20,3 +24,8 @@ Para remoção do arquivo
 ```bash
 docker-compose rm
 ```
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/alan-vieira" width=115><br><sub>Alan Vieira</sub>](https://github.com/alan-vieira) |
+| :---: |
