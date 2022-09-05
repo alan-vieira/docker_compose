@@ -1,4 +1,4 @@
-# Docker Compose
+# Docker Compose para Instalação do PostgreSQL
 ## Descrição do projeto
 Arquivo docker-compose para automatização da instalação do Postgresql no docker
 
